@@ -3,7 +3,8 @@
   "version": "13.12.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run --browser chrome",
+    "cy:dash" : "npx cypress run --record --key cde7385b-4df1-4405-b756-0be9a4cb46a5"
   },
   "keywords": [],
   "author": "",

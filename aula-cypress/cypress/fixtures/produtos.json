@@ -1,0 +1,23 @@
+[
+    {
+        "nomeProduto": "Balboa Persistence Tee",
+        "tamanho": "M",
+        "cor": "Gray",
+        "quantidade": 3
+    },
+    
+    {
+        "nomeProduto": "Bruno Compete Hoodie",
+        "tamanho": "M",
+        "cor": "Black",
+        "quantidade": 5
+    },
+
+    {
+        "nomeProduto": "Beaumont Summit Kit",
+        "tamanho": "L",
+        "cor": "Orange",
+        "quantidade": 4
+    }
+
+]
